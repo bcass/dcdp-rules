@@ -23,7 +23,7 @@ This Constitution supersedes any and all previous constitutions, bylaws, and rul
 1. The County Convention shall meet every two (2) years and shall:  elect county party officers, consider and vote on a county platform, consider and vote on any proposed amendments to this Constitution and Bylaws; and elect delegates and alternates to the Nebraska Democratic State Convention.  The County Convention may also act on other business as brought before it.
 
 ### Section 2.	COUNTY CENTRAL COMMITTEE
-1. A committee, called the Central Committee, shall exist between sessions of the County Convention and shall have duties as assigned by the Convention, this Constitution or the County Bylaws.  The Central Committee shall be composed of the county party officers, representatives of the several Nebraska Legislative Districts in Douglas County and from any County Caucus Organization this Constitution or the Bylaws may provide.  The representatives from the Legislative Districts shall be elected in Legislative District caucuses at each Convention.  The Chair of each County Caucus Organization shall be the representative on the Central Committee.
+1. A committee, called the Central Committee, shall exist between sessions of the County Convention and shall have duties as assigned by the Convention, this Constitution, or the County Bylaws.  The Central Committee shall be composed of the county party officers and representatives of the several Nebraska Legislative Districts in Douglas County and from any County Caucus Organization this Constitution or the Bylaws may provide.  The representatives from the Legislative Districts shall be elected in Legislative District caucuses at each Convention.  The Chair of each County Caucus Organization shall be the representative on the Central Committee.
 1. Regular meetings of the County Central Committee shall number no less than seven (7) per calendar year.  These meetings are to be held at a time and place agreed upon by the Central Committee.
 1. Special meetings of the County Central Committee may be called as specified in the Bylaws.
 
@@ -34,10 +34,10 @@ This Constitution supersedes any and all previous constitutions, bylaws, and rul
 ## ARTICLE V – OFFICERS 
 
 ### Section 1.	PARTY OFFICERS
-1. Officers of the Douglas County Democratic Party shall be:  Chair, Vice Chair (opposite sex of the Chair), Secretary, Treasurer, African American Representative and the Diversity Representative (must gender balance against the African American and Latino Representatives).
+1. Officers of the Douglas County Democratic Party shall be:  Chair, Vice Chair (opposite sex of the Chair), Secretary, Treasurer, African American Representative, and the Diversity Representative (must gender balance against the African American and Latino Representatives).
 
 ### Section 2.	ELECTION AND TERM OF OFFICE
-1. The method of the election or appointment of the officers shall be:
+1. The method of the election of the officers shall be:
    1. At the County Convention, the certified delegates shall elect from their numbers persons to serve as officers of the Douglas County Democratic Party; 
    1. Nominations shall be made from the floor and officers shall be elected by majority vote of the certified delegates;
    1. All officers shall take office immediately prior to the adjournment of the Convention.
@@ -79,7 +79,7 @@ The Douglas County Democratic Party may adopt Bylaws for the periodic and timely
 ## I – COUNTY CONVENTION
 
 ### Section 1.	ORGANIZATION OF THE CONVENTION
-1. The County Central Committee shall fix the time and place for the County Convention in accordance with state law, the constitution and rules of the Nebraska Democratic Party, and the constitution and bylaws and rules of the Douglas County Democratic Party.
+1. The County Central Committee shall fix the time and place for the County Convention in accordance with state law, the constitution and rules of the Nebraska Democratic Party, and the Constitution, Bylaws, and rules of the Douglas County Democratic Party.
 1. The Douglas County Democratic Convention shall have a temporary chair and temporary secretary to convene and organize the Convention.  The County Chair shall appoint a temporary secretary who shall act as secretary of the Convention until a permanent secretary is duly elected.
 1. Standing Committees of the County Convention shall consist of the Committee on Rules and Permanent Organization, the Committee on Platform and Resolutions, and the Committee on Registration and Credentials.  These Standing Committee may have subcommittees to facilitate their work.  The Executive Committee shall select the Chair of each of the Standing Committees.  With the advice and consent of the Central Committee, the County Chair shall appoint such members of each committee as deemed necessary.  The duties of the Standing Committees shall be as specified in these Bylaws, and/or as directed by the County Chair with the advice and consent of the Central Committee.
 1. Temporary committees may be formed to facilitate organization of the Convention.  These committees shall be appointed by the County Chair or the Chair of the Convention and have duties as prescribed by the appointing officer.
@@ -88,18 +88,18 @@ The Douglas County Democratic Party may adopt Bylaws for the periodic and timely
 1. Delegates to the County Convention shall be elected according to state law and the rules of the Nebraska Democratic Party.  The Committee on Registration and Credentials shall prepare and file with the Secretary of the County Convention the names and addresses of all accredited delegates.
 
 ### Section 3.	PERMANENT OFFICERS
-1. The Permanent Officers of the Convention shall consist of a Chair, Vice Chair (opposite sex of the Chair), a Secretary, a Treasurer and any other officers as deemed appropriate by the County Central Committee or the Convention.
+1. The Permanent Officers of the Convention shall consist of a Chair, Vice Chair (opposite sex of the Chair), a Secretary, a Treasurer, and any other officers as deemed appropriate by the County Central Committee or the Convention.
 1. Nominations for these offices shall be made by the Committee on Rules and Permanent Organization.  In addition, nominations may be made from the floor of the Convention by any duly accredited delegate.  The Permanent Officers shall be elected by majority vote of the votes cast for each office and shall assume office upon election.
 
 ### Section 4.	BUSINESS OF THE CONVENTION
-1. The Committee on Rules and Permanent Organization shall prepare recommendations for rules and order of business to be adopted by the County Convention.  The Committee shall promptly file these recommendations with the Secretary of the Convention.
+1. The Committee on Rules and Permanent Organization shall prepare recommendations for rules and the order of business to be adopted by the County Convention.  The Committee shall promptly file these recommendations with the Secretary of the Convention.
 1. The Committee on Resolutions shall prepare a platform, as well as any resolutions desired, to be recommended for adoption by the County Convention.  The committee shall promptly file the recommended resolutions with the Secretary of the Convention.  Resolutions may also be presented in writing from the floor of the convention.
-1. The Convention shall consider such business as is stipulated in the Constitution, these Bylaws, the Constitution and Rules of the Nebraska Democratic Party, the laws of the State of Nebraska or as is brought before it by an accredited delegate to the Convention.
+1. The Convention shall consider such business as is stipulated in the Constitution, these Bylaws, the Constitution and Rules of the Nebraska Democratic Party, the laws of the State of Nebraska, or as is brought before it by an accredited delegate to the Convention.
 
 ### Section 5.	LEGISLATIVE DISTRICT CAUCUSES
 1. Within the meeting time of the Convention, the Convention shall cause to be convened caucuses of the several legislative districts of which Douglas County is any party.  Membership in each legislative district caucus shall be those Convention accredited delegates from that district.
-1. Each caucus shall be convened by (i) one (1) of the Legislative District Representatives to the Central Committee, if a delegate, or (ii) if a Representative is not a delegate, by any member of the caucus.  The caucus shall elect a Chair and Secretary.  The Chair shall (i) preside at the caucus, (ii) poll the delegate as directed by the County Convention Chair; and (iii) announce the results of such polling to the Convention.  The Secretary shall take minutes of the caucus and furnish any reports required by the caucus Chair or the Convention Secretary or Chair.
-1. Each caucus shall conduct such business as directed by the Convention Chair, the County Constitution, these Bylaws, or the Rules and Constitution of the State Democratic Party, the laws of the State of Nebraska, or as brought before it by its members.
+1. Each caucus shall be convened by (i) one (1) of the Legislative District Representatives to the Central Committee, if a delegate, or (ii) if a Representative is not a delegate, by any member of the caucus.  The caucus shall elect a Chair and Secretary.  The Chair shall (i) preside at the caucus, (ii) poll the delegate as directed by the County Convention Chair; and (iii) announce the results of such polling to the Convention.  The Secretary shall take minutes of the caucus and furnish any reports required by the caucus Chair or the Convention Secretary or Convention Chair.
+2. Each caucus shall conduct such business as directed by the Convention Chair, the County Constitution, these Bylaws, or the Constitution and Rules of the Nebraska Democratic Party, the laws of the State of Nebraska, or as brought before it by its members.
 
 ### Section 6.	COUNTY CAUCUS ORGANIZATIONS (CCO)
 1. Before the convening of the County Convention, but on the same day of the County Convention, the recognized CCO shall meet for the purpose of conducting elections for the positions of County Caucus Chair and County Caucus Secretary.
@@ -123,12 +123,12 @@ The Douglas County Democratic Party may adopt Bylaws for the periodic and timely
 
 ### Section 4.	COMMITTEES OF THE CENTRAL COMMITTEE
 1. The Central Committee has two (2) types of committees:  Standing Committees and Special Committees.
-1. Standing Committees shall be permanent between County Conventions.  The chair and members of each standing committees shall be appointed by the County Chair with the approval of the Executive Committee, unless otherwise provided in these Bylaws.
+1. Standing Committees shall be permanent between County Conventions.  The chair and members of each standing committee shall be appointed by the County Chair with the approval of the Executive Committee, unless otherwise provided in these Bylaws.
 1. Standing Committees shall consist of, but are not limited to, the Finance and Audit Committee, the Committee on Rules and Organization, the Fundraising Committee, and the Candidate Search Committee.  The Central Committee may establish other standing committees.
    1. The Finance and Audit Committee shall be chaired by the Treasurer.  Membership shall consist of the Vice Chair and three (3) other members of the Central Committee.  The committee shall: (i) formulate an annual budget for approval by the Central Committee; (ii) negotiate for professional accounting and/or auditing services from a list of Democratic Certified Public Accountants or from a list of Democrat Accountants who had at least a bachelor’s degree in accounting from an accredited university and who have been engaged in the practice of accounting for a minimum of five (5) years in a lump sum fee or gratis; (iii) receive any audit and report such to the Central Committee; (iv) assist the Treasurer in the performance of the Treasurer’s duties; and (v) perform such duties as assigned by the County Chair or the Central Committee.
-   1. The Committee on Rules and Organization shall be chaired by the Vice Chair.  The membership of the committee shall consist of the Secretary and three (3) members of the Central Committee.  The committee shall: (i) assure that the members of the Central Committee are properly credentialed; (ii) that the Central Committee properly follows the Constitution, these Bylaws, and any superior authority; (iii) assist the Chair in the proper organization of the Central Committee; and (iv) perform such duties as assigned by the County Chair or the Central Committee.
+   1. The Committee on Rules and Organization shall be chaired by the Vice Chair.  The membership of the committee shall consist of the Secretary and three (3) members of the Central Committee.  The committee shall: (i) ensure that the members of the Central Committee are properly credentialed; (ii) that the Central Committee properly follows the Constitution, these Bylaws, and any superior authority; (iii) assist the Chair in the proper organization of the Central Committee; and (iv) perform such duties as assigned by the County Chair or the Central Committee.
    1. The Candidate Search Committee shall be composed of the County Chair, Central Committee members, and other interested Democrats.  The committee shall: (i) seek Democratic candidates for any elective office in the county; and (ii) seek candidates for vacancies which may occur in any elective office in the county.  Additionally, the committee shall have duties assigned by the County Chair or the Central Committee.
-   1. The Fundraising Committee shall be chaired by an appointee of the County Chair.  Membership shall consist of the entire Executive Committee and ten (10) members of the Central Committee.  The Committee shall: (i) assist in planning and execution of all fundraising activities by the Party; (ii) create a fundraising plan utilizing the GEM Program, events, individual asks and call time to support the annual budget developed by the Finance and Audit Committee; and (iii) perform such tasks as assigned by the County Chair or the Central Committee.
+   1. The Fundraising Committee shall be chaired by an appointee of the County Chair.  Membership shall consist of the entire Executive Committee and ten (10) members of the Central Committee.  The Committee shall: (i) assist in planning and execution of all fundraising activities by the Party; (ii) create a fundraising plan utilizing the GEM (Giving Every Month) Program, events, individual asks and call time to support the annual budget developed by the Finance and Audit Committee; and (iii) perform such tasks as assigned by the County Chair or the Central Committee.
 2. Special committees may be appointed by the County Chair as deemed necessary.  Membership on these committees may include individuals who are not members of the Central Committee.
 
 ### Section 5.	SPECIAL MEETINGS
@@ -141,7 +141,7 @@ The Douglas County Democratic Party may adopt Bylaws for the periodic and timely
 ## III – COUNTY OFFICERS AND THEIR DUTIES
 
 ### Section 1.	COUNTY CHAIR
-1. The County Chair shall: (i) serve as chief executive officer of the Douglas County Democratic Party; (ii) direct the daily activities of the Executive Director; (iii) serve as the party spokesperson and representative of the County Party at all official party functions; (iv) state the position of the Douglas County Democratic Party on issues with the advise and consent of the Central Committee; (v) preside over all meetings of the Central Committee, fundraisers and other events sponsored by or performed under the auspices of the national, state or other component of the Democratic Party; (vi) and appoint any non-voting members of the Executive Committee to assist in the administration of county party affairs with the advice and consent of the Central Committee.
+1. The County Chair shall: (i) serve as chief executive officer of the Douglas County Democratic Party; (ii) direct the daily activities of the Executive Director; (iii) serve as the party spokesperson and representative of the County Party at all official party functions; (iv) state the position of the Douglas County Democratic Party on issues with the advise and consent of the Central Committee; (v) preside over all meetings of the Central Committee, fundraisers, and other events sponsored by or performed under the auspices of the national, state or other component of the Democratic Party; (vi) and appoint any non-voting members of the Executive Committee to assist in the administration of county party affairs with the advice and consent of the Central Committee.
 1. The County Chair shall be an ex-officio member of any committee of the Douglas County Democratic Party.
 
 ### Section 2.	COUNTY VICE CHAIR
@@ -155,26 +155,26 @@ The Douglas County Democratic Party may adopt Bylaws for the periodic and timely
 ### Section 4.	COUNTY TREASURER
 1. The County Treasurer shall: (i) be responsible for the receiving, depositing in an FDIC-Insured financial institution, and accounting of all funds, cash, negotiable instruments and assets accruing to the interest of the Douglas County Democratic Party; (ii) provide a continuous written, itemized monthly report of all such assets to the Central Committee; (iii) be responsible for preparing all instruments and records of expenditures and liabilities; (iv) provide a continuous written, itemized monthly report of all revenue, expenditures and liabilities to the Central Committee; (v) and be responsible for reconciliation of assets and liabilities determined in a written monthly report to the Central Committee and combining the requirements as noted above.
 1. The Treasurer shall also provide a written, itemized report containing the above elements to the County Convention to cover the period since the previous County Convention.
-1. The Treasurer shall be responsible for the timely preparation and delivery of all required reports to the Nebraska Accountability and Disclosure Commission, the Federal Election Commission, the Internal Revenue Service or other authorized agency as may be required by law.
+1. The Treasurer shall be responsible for the timely preparation and delivery of all required reports to the Nebraska Accountability and Disclosure Commission, the Federal Election Commission, the Internal Revenue Service, or other authorized agency as may be required by law.
 
 ### Section 5.	AFRICAN AMERICAN REPRESENTATIVE
 1. The African American Representative must meet the following additional credential; be a blooded member of a recognized racial minority defined as Black (all as defined in 48 C.F.R. Chapter 1, Part 19, subpart 10.001) and shall not also serve simultaneously as the African American Caucus Chair.
 1. The African American Representative shall be the organization’s liaison to the African American Community and shall strengthen the relationship between the Party and this Community.
 2. The African American Representative shall work with the Chair of the African American Caucus and leaders of the African American Community to form the AAC-DCDP Coalition.  This Coalition shall focus on working together on the concerns and goals of the African American community in Douglas County.
-3. The African American Representative shall have duties as assigned to them by this Constitution, the Bylaws or the County Chair.
+3. The African American Representative shall have duties as assigned to them by this Constitution, the Bylaws, or the County Chair.
 
 ### Section 6.	LATINO REPRESENTATIVE
 1. The Latino Representative must meet the following additional credential; be a blooded member of a recognized racial minority defined as Hispanic (all as defined in 48 C.F.R. Chapter 1, Part 19, subpart 10.001) and shall not also serve simultaneously as the Latino Caucus Chair.
 1. The Latino Representative shall be the organization’s liaison to the Latino community and shall strengthen the relationship between the Party and this Community.
 1. The Latino Representative shall work with the Chair of the Latino Caucus and leaders of the Latino Community to form the LC-DCDP Coalition.  The Coalition shall focus on the working together on the concerns and goals of the Latino Community in Douglas County.
-1. The Latino Representative shall have duties as assigned to them by this Constitution, the Bylaws or the County Chair.
+1. The Latino Representative shall have duties as assigned to them by this Constitution, the Bylaws, or the County Chair.
 
 ### Section 7.	DIVERSITY REPRESENTATIVE
-1. The Diversity Representative must meet one of the following additional credentials; be a blooded member of a recognized racial minority defined as Asian-Pacific, Asian-Indian or Native American (all as defined in 48 C.F.R. Chapter 1, Part 19, subpart 10.001) or a member of a religious minority as being non-Christian and including agnostics and atheists or a member of the Disability or LGBT Communities.  This member’s primary credential may not be as a member of a blooded racial minority defined as African American or Latino and may not also serve simultaneously as the Chair of any CCO.
+1. The Diversity Representative must meet one of the following additional credentials; be a blooded member of a recognized racial minority defined as Asian-Pacific, Asian-Indian, or Native American (all as defined in 48 C.F.R. Chapter 1, Part 19, subpart 10.001) or a member of a religious minority as being non-Christian and including agnostics and atheists or a member of the Disability or LGBT Communities.  This member’s primary credential may not be as a member of a blooded racial minority defined as African American or Latino and may not also serve simultaneously as the Chair of any CCO.
 1. The Diversity Representative must gender balance the collection of the African American and Latino Representative.
 1. The Diversity Representative shall be the organization’s liaison to the widely diverse community of Douglas County and these underrepresented communities of Douglas County and shall strengthen the relationship between those communities and the Party.
 2. The Diversity Representative shall work with the Chairs of all the CCO and leaders of various community organizations to form the DC Diversity Coalition.  This Coalition shall focus on working together on the concerns and goals of diversity throughout our community in Douglas County.
-3. The Diversity Representative shall have duties as assigned to them by this Constitution, the Bylaws or the County Chair.
+3. The Diversity Representative shall have duties as assigned to them by this Constitution, the Bylaws, or the County Chair.
 
 ### Section 8.	EXECUTIVE COMMITTEE
 1. The members of the Executive Committee shall be the Officers of the Party.
@@ -198,7 +198,7 @@ The Douglas County Democratic Party may adopt Bylaws for the periodic and timely
 
 ### Section 3.	COUNTY CAUCUS ORGANIZATION CHAIR
 1. Vacancies in the position of any County Caucus Chair shall be deemed to exist when declared by the County Secretary at a regularly scheduled meeting of the Central Committee for any of the following reasons: (i) three (3) cumulative unexcused absences within the period between County Conventions; (ii) resignations; (iii) change in party affiliation; (iv) removal from office.
-1. Vacancies shall be filled at the next regularly scheduled meeting of the Central Committee following the announcement of said vacancy in the following manner: (i) announcement of said vacancy shall be made at the next regularly scheduled meeting after the vacancy is known; (ii) by a majority vote of the membership of the County Caucus in which a minimum of 10 members are in attendance and (iii) a majority vote of those present of the Central Committee certifying such election to be elected as Caucus Chair effective immediately.
+1. Vacancies shall be filled at the next regularly scheduled meeting of the Central Committee following the announcement of said vacancy in the following manner: (i) announcement of said vacancy shall be made at the next regularly scheduled meeting after the vacancy is known; (ii) by a majority vote of the membership of the County Caucus in which a minimum of 10 members are in attendance, and (iii) a majority vote of those present of the Central Committee certifying such election to be elected as Caucus Chair effective immediately.
 1. The County Chair, or the Chair’s designee, shall have the authority to grant an excused absence.
 
 
@@ -216,7 +216,7 @@ The Douglas County Democratic Party may adopt Bylaws for the periodic and timely
 
 ## VI – PARLIAMENTARY AUTHORITY
 
-1. The rules contained in the current Robert’s Rules of Order, Newly Revised, shall be the parliamentary authority in all matters not covered by the Constitution or Bylaws of the Douglas County Democratic Party as long as they are not in conflict with the Constitutions, Rules, Bylaws or Procedures of the State or National Democratic Parties.
+1. The rules contained in the current Robert’s Rules of Order, Newly Revised shall be the parliamentary authority in all matters not covered by the Constitution or Bylaws of the Douglas County Democratic Party as long as they are not in conflict with the Constitutions, Rules, Bylaws, or Procedures of the State or National Democratic Parties.
 
 
 ## VII – AMENDING THESE BYLAWS
