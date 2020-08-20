@@ -37,11 +37,11 @@ This Constitution supersedes any and all previous constitutions, bylaws, and rul
 1. Officers of the Douglas County Democratic Party shall be:  Chair, Vice Chair (opposite sex of the Chair), Secretary, Treasurer, African American Representative, and the Diversity Representative (must gender balance against the African American and Latino Representatives).
 
 ### Section 2.	ELECTION AND TERM OF OFFICE
-1. The method of the election of the officers shall be:
+1. Officers shall be elected using the following method:
    1. At the County Convention, the certified delegates shall elect from their numbers persons to serve as officers of the Douglas County Democratic Party; 
-   1. Nominations shall be made from the floor and officers shall be elected by majority vote of the certified delegates;
-   1. All officers shall take office immediately prior to the adjournment of the Convention.
-1. The terms of each office shall be for a period of two (2) years or until their successors are duly elected.
+   2. Nominations shall be made from the floor and officers shall be elected by majority vote of the certified delegates;
+   3. All officers shall take office immediately prior to the adjournment of the Convention.
+2. The terms of each office shall be for a period of two (2) years or until their successors are duly elected.
 
 
 ## ARTICLE VI – LEGISLATIVE DISTRICT REPRESENTATIVES
@@ -141,7 +141,7 @@ The Douglas County Democratic Party may adopt Bylaws for the periodic and timely
 ## III – COUNTY OFFICERS AND THEIR DUTIES
 
 ### Section 1.	COUNTY CHAIR
-1. The County Chair shall: (i) serve as chief executive officer of the Douglas County Democratic Party; (ii) direct the daily activities of the Executive Director; (iii) serve as the party spokesperson and representative of the County Party at all official party functions; (iv) state the position of the Douglas County Democratic Party on issues with the advise and consent of the Central Committee; (v) preside over all meetings of the Central Committee, fundraisers, and other events sponsored by or performed under the auspices of the national, state or other component of the Democratic Party; (vi) and appoint any non-voting members of the Executive Committee to assist in the administration of county party affairs with the advice and consent of the Central Committee.
+1. The County Chair shall: (i) serve as chief executive officer of the Douglas County Democratic Party; (ii) direct the daily activities of the Executive Director; (iii) serve as the party spokesperson and representative of the County Party at all official party functions; (iv) state the position of the Douglas County Democratic Party on issues with the advise and consent of the Central Committee; (v) preside over all meetings of the Central Committee, fundraisers, and other events sponsored by or performed under the auspices of the Douglas County Democratic Party; (vi) and appoint any non-voting members of the Executive Committee to assist in the administration of county party affairs with the advice and consent of the Central Committee.
 1. The County Chair shall be an ex-officio member of any committee of the Douglas County Democratic Party.
 
 ### Section 2.	COUNTY VICE CHAIR
