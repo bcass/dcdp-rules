@@ -8,12 +8,12 @@ The Douglas County Democratic Party is established on behalf of all citizens reg
 
 ## ARTICLE II – PURPOSE 
 
-The object and purpose of this organization is to contribute to the growth and influence of the Democratic Party, to encourage interest among voters in the Democratic Party, to participate in political campaigns, to develop leadership, to encourage suitable candidates to run for office on the Democratic ticket, to raise and expend funds for political purposes, to increase party responsibility, to maintain and promote harmony within party ranks, and generally to exercise all rights, powers and privileges granted by the laws of the United States and the State of Nebraska and the rules of the National and State Democratic Party.
+The object and purpose of this organization is to contribute to the growth and influence of the Democratic Party, to encourage interest among voters in the Democratic Party, to participate in political campaigns, to develop leadership, to encourage suitable candidates to run for office on the Democratic ticket, to raise and expend funds for political purposes, to increase party responsibility, to maintain and promote harmony within party ranks, and generally to exercise all rights, powers, and privileges granted by the laws of the United States and the State of Nebraska and the rules of the National and State Democratic Party.
 
 
 ## ARTICLE III – AUTHORITY 
 
-This Constitution supersedes any and all previous constitutions, bylaws and/or rules of the Douglas County Democratic Party.  This Constitution shall be the supreme governing document of this organization unless in violation of any election law of the State of Nebraska, any election law of the United States of America, or any charter constitution, bylaw of rule of the Democratic Party of the State of Nebraska or the National Democratic Party.  This Constitution shall be effective upon adjournment of the adopting Convention.
+This Constitution supersedes any and all previous constitutions, bylaws, and rules of the Douglas County Democratic Party.  This Constitution shall be the supreme governing document of this organization unless in violation of any election law of the State of Nebraska, any election law of the United States of America, or any charter constitution, bylaw, or rule of the Nebraska Democratic Party or the National Democratic Party.  This Constitution shall be effective upon adjournment of the adopting County Convention.
 
 
 ## ARTICLE IV – ORGANIZATION OF THE PARTY
