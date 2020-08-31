@@ -13,7 +13,7 @@ The object and purpose of this organization is to contribute to the growth and i
 
 ## ARTICLE III – AUTHORITY 
 
-This Constitution supersedes any and all previous constitutions, bylaws, and rules of the Douglas County Democratic Party.  This Constitution shall be the supreme governing document of this organization unless in violation of any election law of the State of Nebraska, any election law of the United States of America, or any charter constitution, bylaw, or rule of the Nebraska Democratic Party or the National Democratic Party.  This Constitution shall be effective upon adjournment of the adopting County Convention.
+This Constitution supersedes any and all previous constitutions, bylaws, and rules of the Douglas County Democratic Party.  This Constitution shall be the supreme governing document of this organization unless in violation of any election law of the State of Nebraska, any election law of the United States of America, or any charter, constitution, bylaw, or rule of the Nebraska Democratic Party or the National Democratic Party.  This Constitution shall be effective upon adjournment of the adopting County Convention.
 
 
 ## ARTICLE IV – ORGANIZATION OF THE PARTY
