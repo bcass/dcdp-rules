@@ -3,12 +3,12 @@
 
 ## ARTICLE I – NAME 
 
-The Douglas County Democratic Party is established on behalf of all citizens registered as Democrats in Douglas County, Nebraska and is affiliated with the Nebraska Democratic Party and the Democratic National Committee.
+The Douglas County Democratic Party is established on behalf of all citizens registered as Democrats in Douglas County, Nebraska and is affiliated with the Nebraska Democratic Party and the National Democratic Party.
 
 
 ## ARTICLE II – PURPOSE 
 
-The object and purpose of this organization is to contribute to the growth and influence of the Democratic Party, to encourage interest among voters in the Democratic Party, to participate in political campaigns, to develop leadership, to encourage suitable candidates to run for office on the Democratic ticket, to raise and expend funds for political purposes, to increase party responsibility, to maintain and promote harmony within party ranks, and generally to exercise all rights, powers, and privileges granted by the laws of the United States and the State of Nebraska and the rules of the National and State Democratic Party.
+The object and purpose of this organization is to contribute to the growth and influence of the Democratic Party, to encourage interest among voters in the Democratic Party, to participate in political campaigns, to develop leadership, to encourage suitable candidates to run for office on the Democratic ticket, to raise and expend funds for political purposes, to increase party responsibility, to maintain and promote harmony within party ranks, and generally to exercise all rights, powers, and privileges granted by the laws of the United States, the State of Nebraska, and the rules of the Nebraska Democratic Party and National Democratic Party.
 
 
 ## ARTICLE III – AUTHORITY 
@@ -216,7 +216,7 @@ The Douglas County Democratic Party may adopt Bylaws for the periodic and timely
 
 ## VI – PARLIAMENTARY AUTHORITY
 
-1. The rules contained in the current Robert’s Rules of Order, Newly Revised shall be the parliamentary authority in all matters not covered by the Constitution or Bylaws of the Douglas County Democratic Party as long as they are not in conflict with the Constitutions, Rules, Bylaws, or Procedures of the State or National Democratic Parties.
+1. The rules contained in the current Robert’s Rules of Order, Newly Revised shall be the parliamentary authority in all matters not covered by the Constitution or Bylaws of the Douglas County Democratic Party as long as they are not in conflict with the Constitutions, Rules, Bylaws, or Procedures of the Nebraska Democratic Party or National Democratic Party.
 
 
 ## VII – AMENDING THESE BYLAWS
