@@ -52,14 +52,14 @@ This Constitution supersedes any and all previous constitutions, bylaws, and rul
 
 ## ARTICLE VII – COUNTY CAUCUS ORGANIZATIONS (CCO)
 
-1. In order to broaden representation of minority and traditionally under-represented communities within the Douglas County Democratic Party, County Caucus Organizations are recognized and will function as provided in this Constitution and/or the Bylaws.
+1. In order to broaden representation of minority and traditionally under-represented communities within the Douglas County Democratic Party, County Caucus Organizations are recognized and will function as provided in this Constitution and the County Bylaws.
 1. The Democrats in the County which are members of a recognized CCO shall be represented on the Central Committee by the Chair of each recognized CCO.  Each CCO Chair shall be elected by a majority vote of the members of the County Caucus Organization.
 1. A Chair of a CCO may not simultaneously serve in any other elected position of the Douglas County Democratic Party.
 
 
 ## ARTICLE VIII – BYLAWS 
 
-The Douglas County Democratic Party may adopt Bylaws for the periodic and timely administration of the party.
+The Douglas County Democratic Party may adopt County Bylaws for the periodic and timely administration of the party.
 
 
 ## ARTICLE IX – AMENDING THIS CONSTITUTION
