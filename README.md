@@ -59,7 +59,7 @@ This Constitution supersedes any and all previous constitutions, bylaws, and rul
 
 ## ARTICLE VIII – BYLAWS 
 
-The Douglas County Democratic Party may adopt County Bylaws for the periodic and timely administration of the party.
+The Douglas County Democratic Party may adopt County Bylaws for the periodic and timely administration of the party. Such County Bylaws shall specify how they are to be revised or amended.
 
 
 ## ARTICLE IX – AMENDING THIS CONSTITUTION
@@ -68,7 +68,7 @@ The Douglas County Democratic Party may adopt County Bylaws for the periodic and
 1. This Constitution may be provisionally amended by the Douglas County Central Committee at any regularly scheduled meeting by a two-thirds vote of the elected members of the entire Central Committee.  Proposed provisional amendments must be given to the entire Central Committee by the County Secretary at least ten (10) days prior to the meeting at which the proposed provisional amendment(s) is/are to be considered.  Such provisional amendment(s), if so approved, shall be in force until the next County Convention.  Failure of the Convention to ratify such changes shall cause them to expire sine die with the County Convention.
 
 ### Section 2.	AMENDMENT
-1. Proposals to amend this Constitution in part or in whole may be presented to the County Convention for its consideration.  Such proposals must be given in writing to the Secretary of the Convention.  Approval or the proposals requires a majority vote of the certified County Convention Delegates.  If approved, the proposals become amendments effective immediately.
+1. Proposals to amend this Constitution in part or in whole may be presented to the County Convention for its consideration.  Such proposals must be given in writing to the Secretary of the Convention.  Approval of the proposals requires a majority vote of the certified County Convention Delegates.  If approved, the proposals become amendments effective immediately.
 
 
 
