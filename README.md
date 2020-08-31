@@ -34,7 +34,7 @@ This Constitution supersedes any and all previous constitutions, bylaws, and rul
 ## ARTICLE V – OFFICERS 
 
 ### Section 1.	PARTY OFFICERS
-1. Officers of the Douglas County Democratic Party shall be:  Chair, Vice Chair (opposite sex of the Chair), Secretary, Treasurer, African American Representative, Latino Representative, and Diversity Representative (must gender balance against the African American and Latino Representatives).
+1. Officers of the Douglas County Democratic Party shall be:  Chair, Vice Chair (of a different gender than that of the Chair), Secretary, Treasurer, African American Representative, Latino Representative, and Diversity Representative (must gender balance against the African American and Latino Representatives).
 
 ### Section 2.	ELECTION AND TERM OF OFFICE
 1. Officers shall be elected using the following method:
@@ -46,7 +46,7 @@ This Constitution supersedes any and all previous constitutions, bylaws, and rul
 
 ## ARTICLE VI – LEGISLATIVE DISTRICT REPRESENTATIVES
 
-1. The Democrats in the County in each of the several Nebraska Legislative Districts shall be represented on the Central Committee by four (4) Delegate Representatives (two (2) female, two (2) male).  Each Legislative District’s four Delegate Representatives shall:  be elected by majority vote of the certified delegates to the County Convention from the respective Legislative District; reside in the Legislative District that they represent; and chose a Chair and Vice Chair (opposite sex of the Chair) from among themselves.
+1. The Democrats in the County in each of the several Nebraska Legislative Districts shall be represented on the Central Committee by four (4) Delegate Representatives, with no more than two of the same gender.  Each Legislative District’s four Delegate Representatives shall:  be elected by majority vote of the certified delegates to the County Convention from the respective Legislative District; reside in the Legislative District that they represent; and chose a Chair and Vice Chair (of a different gender than that of the Chair) from among themselves.
 1. The Legislative District Representatives may elect Alternate Legislative District Representatives for each Legislative District by a majority vote.  Alternate Legislative District Representatives must reside in the Legislative District that they seek to sit as an Alternate Legislative District Representative.  Alternate Legislative District Representatives may participate in the discussions of the business conducted at the Central Committee meetings.  Alternate Legislative District Representatives may be considered for election to the position of Legislative District Representative upon resignation or removal of an existing Legislative District Representative.
 
 
