@@ -65,7 +65,7 @@ The Douglas County Democratic Party may adopt County Bylaws for the periodic and
 ## ARTICLE IX – AMENDING THIS CONSTITUTION
 
 ### Section 1.	PROVISIONAL AMENDMENT
-1. This Constitution may be provisionally amended by the Douglas County Central Committee at any regularly scheduled meeting by a two-thirds vote of the elected members of the entire Central Committee.  Proposed provisional amendments must be given to the entire Central Committee by the County Secretary at least ten (10) days prior to the meeting at which the proposed provisional amendment(s) is/are to be considered.  Such provisional amendment(s), if so approved, shall be in force until the next County Convention.  Failure of the Convention to ratify such changes shall cause them to expire sine die with the County Convention.
+1. This Constitution may be provisionally amended by the Douglas County Central Committee at any regularly scheduled meeting by a two-thirds (2/3) vote of the elected members of the entire Central Committee.  Proposed provisional amendments must be given to the entire County Central Committee by the County Secretary at least ten (10) days prior to the meeting at which they are considered.  If approved, such provisional amendments shall be in force until the next County Convention.  Failure of the Convention to ratify such changes shall cause them to expire at the conclusion of the County Convention.
 
 ### Section 2.	AMENDMENT
 1. Proposals to amend this Constitution in part or in whole may be presented to the County Convention for its consideration.  Such proposals must be given in writing to the Secretary of the Convention.  Approval of the proposals requires a majority vote of the certified County Convention Delegates.  If approved, the proposals become amendments effective immediately.
@@ -219,6 +219,12 @@ The Douglas County Democratic Party may adopt County Bylaws for the periodic and
 1. The rules contained in the current Robert’s Rules of Order, Newly Revised shall be the parliamentary authority in all matters not covered by the Constitution or Bylaws of the Douglas County Democratic Party as long as they are not in conflict with the Constitutions, Rules, Bylaws, or Procedures of the Nebraska Democratic Party or National Democratic Party.
 
 
-## VII – AMENDING THESE BYLAWS
+## VII – AMENDMENT
 
-1. These Bylaws may be adopted or amended by a majority vote of the elected members of the entire County Central Committee, or by a majority vote of the certified delegates to the County Convention.  Such adoptions or amendments shall be effective upon approval.
+### Section 1. BY COUNTY CONVENTION
+
+1. These Bylaws may be revised or amended by a majority vote of the certified delegates to the County Convention.  Such revisions or amendments must be submitted in writing to the Convention Secretary and shall be effective upon approval.
+
+### Section 2. BY THE COUNTY CENTRAL COMMITTEE
+
+1. These Bylaws may be revised or amended by a two-thirds (2/3) vote of the elected members of the entire County Central Committee.  Proposed amendments must be given to the entire County Central Committee at least ten (10) days prior to the meeting in which they are considered.  Such revisions or amendments shall be effective upon approval.
