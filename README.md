@@ -19,13 +19,14 @@ This Constitution supersedes any and all previous constitutions, bylaws, and rul
 ## ARTICLE IV – ORGANIZATION OF THE PARTY
 
 ### Section 1.	COUNTY CONVENTION
-1. The Douglas County Democratic Convention (County Convention), which is constituted and empowered according to state law and by the constitution and rules for the Nebraska Democratic Party, is the supreme governing body of the Douglas County Democratic Party.
+1. The Douglas County Democratic Convention (County Convention), which is constituted and empowered by the Constitution, Bylaws, and Rules of the Nebraska Democratic Party, is the supreme governing body of the Douglas County Democratic Party.
 1. The County Convention shall meet every two (2) years and shall:  elect county party officers, consider and vote on a county platform, consider and vote on any proposed amendments to this Constitution and Bylaws; and elect delegates and alternates to the Nebraska Democratic State Convention.  The County Convention may also act on other business as brought before it.
 
 ### Section 2.	COUNTY CENTRAL COMMITTEE
-1. A committee, called the Central Committee, shall exist between sessions of the County Convention and shall have duties as assigned by the Convention, this Constitution, or the County Bylaws.  The Central Committee shall be composed of the county party officers and representatives of the several Nebraska Legislative Districts in Douglas County and from any County Caucus Organization this Constitution or the County Bylaws may provide.  The representatives from the Legislative Districts shall be elected in Legislative District caucuses at each Convention.  The Chair of each County Caucus Organization shall be the representative on the Central Committee.
-1. Regular meetings of the County Central Committee shall number no less than seven (7) per calendar year.  These meetings are to be held at a time and place agreed upon by the Central Committee.
-1. Special meetings of the County Central Committee may be called as specified in the Bylaws.
+1. A committee, called the Central Committee, shall exist between sessions of the County Convention and shall have duties as assigned by the Convention, this Constitution, and the County Bylaws.  The Central Committee shall be the governing body of the Douglas County Democratic Party between County Convention and may overrule an action of the County Chair or the Executive Committee by a majority vote.
+2. The Central Committee shall be composed of County Party officers, Central Committee Members elected at County Convention, and Central Committee Members elected between County Convention as set forth in this Constitution or the County Bylaws.
+3. Regular meetings of the County Central Committee shall number no less than seven (7) per calendar year.  These meetings are to be held at a time and place agreed upon by the Central Committee.
+4. Special meetings of the County Central Committee may be called as specified in the Bylaws.
 
 ### Section 3.	EXECUTIVE COMMITTEE
 1. An Executive Committee shall be formed consisting of the officers of the Douglas County Democratic Party.  Non-voting members of this committee may be appointed as directed by this Constitution or the County Bylaws.  The tenure of these additional members shall be for a time specific or automatically terminate with the close of the next County Convention following such appointment.
@@ -44,10 +45,9 @@ This Constitution supersedes any and all previous constitutions, bylaws, and rul
 1. The terms of each office shall be for a period of two (2) years or until their successors are duly elected.
 
 
-## ARTICLE VI – LEGISLATIVE DISTRICT REPRESENTATIVES
+## ARTICLE VI – CENTRAL COMMITTEE MEMBERS
 
-1. The Democrats in the County in each of the several Nebraska Legislative Districts shall be represented on the Central Committee by four (4) Delegate Representatives (two (2) female, two (2) male).  Each Legislative District’s four Delegate Representatives shall:  be elected by majority vote of the certified delegates to the County Convention from the respective Legislative District; reside in the Legislative District that they represent; and choose a Chair and Vice Chair (opposite sex of the Chair) from among themselves.
-1. The Legislative District Representatives may elect Alternate Legislative District Representatives for each Legislative District by a majority vote.  Alternate Legislative District Representatives must reside in the Legislative District that they seek to sit as an Alternate Legislative District Representative.  Alternate Legislative District Representatives may participate in the discussions of the business conducted at the Central Committee meetings.  Alternate Legislative District Representatives may be considered for election to the position of Legislative District Representative upon resignation or removal of an existing Legislative District Representative.
+1. TODO
 
 
 ## ARTICLE VII – COUNTY CAUCUS ORGANIZATIONS (CCO)
